@@ -22,3 +22,12 @@
 ## 30th Sept 2022 
 
 * *2 hour* setting up project template, watching introduction session and continuing with data investigation
+
+## 3rd Oct 2022
+
+* *1 hour* experimenting with prebuilt tensorflow segmentation CNNs. discovered I will likely have to make/confgure my own since majority take 3-channel matrices aka RGB images, not arbitrary 3D matrices
+
+## 4th Oct 2022
+
+* *2.5 hours* researching segmentation deep NNs, tensorflow used UNet so I mainly investigated that. found [a UNet implementation that works for 3D single-channel medical images](https://github.com/davidiommi/Pytorch--3D-Medical-Images-Segmentation--SALMON), i.e what my project is meant to be. worked on trying to get it working/training to see its results to evaluate its efficacy
+

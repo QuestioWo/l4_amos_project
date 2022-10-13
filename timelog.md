@@ -31,3 +31,19 @@
 
 * *2.5 hours* researching segmentation deep NNs, tensorflow used UNet so I mainly investigated that. found [a UNet implementation that works for 3D single-channel medical images](https://github.com/davidiommi/Pytorch--3D-Medical-Images-Segmentation--SALMON), i.e what my project is meant to be. worked on trying to get it working/training to see its results to evaluate its efficacy
 
+## 5th Oct 2022
+
+* *0.75 hours* weekly meeting and discussion/clarification of goals. identified spatially-aware/4D CNNs as a possible avenue for research this week, along with training and viewing the results of the current CNN approaches to see their shortcomings
+
+## 8th Oct 2022
+
+* *1 hour* formatting data for use with exisiting models and setting up system for training as collab does not have storage capacity. took a while due to data capacity requirements
+
+## 11th Oct 2022
+
+* *2 hours* researching 4D CNNs, medical imaging literature and attempting to train model.
+
+## 12th Oct 2022
+
+* *0.5 hours* researching edge-based segmentation
+

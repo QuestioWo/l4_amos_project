@@ -47,3 +47,14 @@
 
 * *0.5 hours* researching edge-based segmentation
 
+## 19th Oct 2022
+
+* *2 hours* general research trying to find interesting/relevant papers on vision transformers, attention maps, and spatially-aware cnns
+
+## 20th Oct 2022
+
+* *2 hours* fully reading papers found yesterday and writing up notes and descriptions of them
+* *0.5 hours* meeting with Dr. Gooya
+
+
+

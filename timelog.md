@@ -56,5 +56,12 @@
 * *2 hours* fully reading papers found yesterday and writing up notes and descriptions of them
 * *0.5 hours* meeting with Dr. Gooya
 
+## 26th Oct 2022
 
+* *2 hours* researching transformers, how they work and the current research in the field
 
+## 27th Oct 2022
+
+* *3 hours* further research on machine learning techniques, found out about Perciever IO from deepmind and about swin tranformers and how 3d swin networks have already been done. also looked into similarity scores for imagenette for comparisons
+
+* *0.25 hours* advisor meeting

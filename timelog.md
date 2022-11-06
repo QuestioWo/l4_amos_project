@@ -65,3 +65,11 @@
 * *3 hours* further research on machine learning techniques, found out about Perciever IO from deepmind and about swin tranformers and how 3d swin networks have already been done. also looked into similarity scores for imagenette for comparisons
 
 * *0.25 hours* advisor meeting
+
+## 2nd November 2022
+
+* *2 hours* research into Perciever code and for BTSwin-UNet code.
+
+## 3rd Novemeber 2022
+
+* *0.5 hours* advisor meeting

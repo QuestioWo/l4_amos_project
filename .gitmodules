@@ -1,0 +1,3 @@
+[submodule "src/perceiver-io"]
+	path = src/perceiver-io
+	url = ../perceiver-io

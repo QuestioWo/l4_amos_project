@@ -70,6 +70,10 @@
 
 * *2 hours* research into Perciever code and for BTSwin-UNet code.
 
-## 3rd Novemeber 2022
+## 3rd November 2022
 
 * *0.5 hours* advisor meeting
+
+## 8th November 2022
+
+* *4 hours* getting to grips with pytorch perceiver IO code and beginning extending it to add a new segmentation image model

@@ -77,3 +77,24 @@
 ## 8th November 2022
 
 * *4 hours* getting to grips with pytorch perceiver IO code and beginning extending it to add a new segmentation image model
+
+## 15th Novemeber 2022
+
+* *8 hours* added ability for existing perceiver-io code to load miccai dataset and added basic framework for basic preprocessing
+
+## 23rd November 2022
+
+* *5 hours* working on automatically coregistering all images as a preprocessing step to help the network better form self attentions. tried multiple solutions using itk and selected one as acceptable. having scaling issues as currently only interpolating width and height, not depth
+
+## 5th December 2022
+
+* *4 hours* working on coregistration, fixed scaling issues and results seem good. now have to integrate experimentation with current micca loader and preprocess the entire dataset as is costly each time it is done
+
+## 7th December 2022
+
+* *3 hours* integrating and verifying coregistration preprocessing in data loader
+* *2 hours* preparing and beginning work on making new model for inferencing
+
+## 12th December 2022
+
+* *5 hours* model now working for 2d scan. appears that validation set is not splitting from training properly - will have to fix. and will have to evaluate results.

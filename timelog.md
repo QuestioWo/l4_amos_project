@@ -98,3 +98,11 @@
 ## 12th December 2022
 
 * *5 hours* model now working for 2d scan. appears that validation set is not splitting from training properly - will have to fix. and will have to evaluate results.
+
+## 15th December 2022
+
+* *6 hours* revisiting preprocessing to correctly register images with scaling in mind to make sure inferences, trainign and evaluations are sound
+
+## 16th December 2022
+
+* *6 hours* finalising preprocessing to verify that rescalings are correct and that scans/segmentations are interpolated correctly using nearest neighbour (to avoid incorrect partial labels at boundaries). looking into removing the backgorund label from consideration in the loss functions so that the model actually trains to segment organs

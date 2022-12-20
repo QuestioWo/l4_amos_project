@@ -107,10 +107,14 @@
 
 * *6 hours* finalising preprocessing to verify that rescalings are correct and that scans/segmentations are interpolated correctly using nearest neighbour (to avoid incorrect partial labels at boundaries). looking into removing the backgorund label from consideration in the loss functions so that the model actually trains to segment organs
 
-## 17th December 2022
-
-* *4 hours* made nerw loss function that can take the backgrounds affect/incorrectness into account better. got inference script displaying images correctly plus the differences between the GT labels and the predictions. currently explanding everything to be able to handle multiple slices images - starting with a viewer for the inference script
-
 ## 18th December 2022
 
-* *4 hours* re-preprocessed data to be better coregistered. got model working, training and inferencing for 3d images - had to half image resolution from 256->128. setting up for large training run. also got workingon google colab as larger network required more vram
+* *4 hours* made new loss function that can take the backgrounds affect/incorrectness into account better. got inference script displaying images correctly plus the differences between the GT labels and the predictions. currently explanding everything to be able to handle multiple slices images - starting with a viewer for the inference script
+
+## 19th December 2022
+
+* *4 hours* re-preprocessed data to be better coregistered. got model working, training and inferencing for 3d images - had to half image resolution from 256->128. setting up for large training run. also got working on google colab as larger network required more vram
+
+## 20th December 2022
+
+* *2 hours* changing how outputs are perceived as classifications. verifying and updating new loss function and starting large run locally to hopefully actually see segmentations soon

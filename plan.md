@@ -26,15 +26,15 @@ Week-by-week plan for the whole project. Update this as you go along.
 
 ## Spring Semester
 
-* **Week 13**
-* **Week 14**
-* **Week 15**
-* **Week 16**
-* **Week 17**
-* **Week 19**
-* **Week 20**
-* **Week 21**
-* **Week 22**
-* **Week 23 [TERM ENDS]**
-* **Week 24** Dissertation submission deadline and presentations.
+* **Week 1 (beginning January 9th)** Refine model based on what was learned through experimentation and analysis
+* **Week 2** Compute evaluation metrics (Dice Coefficient, Haussdorf Distance, time for inference (ms))
+* **Week 3** Refine model further
+* **Week 4** Retrain and submit results for validation stage to AMOS 2022 site
+* **Week 5** Dockerise model
+* **Week 6** Finish dockeristaion and submit for validation stage
+* **Week 7** Further refine and resubmit if necessary
+* **Week 8** Write Draft Essay
+* **Week 9** Write Draft Essay
+* **Week 10 [TERM ENDS]** Complete Draft essay
+* **Week 11** Dissertation submission deadline and presentations.
 

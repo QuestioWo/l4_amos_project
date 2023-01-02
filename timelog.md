@@ -118,3 +118,7 @@
 ## 20th December 2022
 
 * *2 hours* changing how outputs are perceived as classifications. verifying and updating new loss function and starting large run locally to hopefully actually see segmentations soon
+
+## 31st December 2022
+
+* *2 hours* preprocessed dataset with smaller size and configured for a larger model in an attempt to see new/novel/correct outputs. training started and may take a long time

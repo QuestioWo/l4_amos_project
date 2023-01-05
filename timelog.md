@@ -123,6 +123,14 @@
 
 * *2 hours* preprocessed dataset with smaller size and configured for a larger model in an attempt to see new/novel/correct outputs. training started and may take a long time
 
-# 3rd December 2022
+# 3rd January 2023
 
 * *1 hour* Changing network to operate on a 2d slice for now. changed network parameters a bit to make it easier to train. changed loss function using after further research. started new training run and results are actually producing reasonable-ish segmentations
+
+# 4th January 2023
+
+* *1 hour* refining model to decrease size and begining retraining. analysed scans from previous and current run
+
+# 5th January 2023
+
+* *1 hour* advisor meeting and halted network traing. re-preprocessing dataset to 128x128 and restarting training

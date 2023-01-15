@@ -134,3 +134,11 @@
 # 5th January 2023
 
 * *1 hour* advisor meeting and halted network traing. re-preprocessing dataset to 128x128 and restarting training
+
+# 8th January 2023
+
+* *10 minutes* created new model configs and starting training on them
+
+# 15th January 2023
+
+* *1 hour* fixing inference script and standardising preprocessing interpolations and restarting preprocessing

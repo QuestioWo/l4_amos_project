@@ -169,3 +169,7 @@
 ### 24th January 2023
 
 * *5.5 hours* finished implementing metrics computations in inference script. got model inferencing and training on entire scans using checkpointing. begun work on getting the training to work on google colab.
+
+## 27th January 2023
+
+* *1 hour* updating data loading to load corect dataset for AMOS task 1. lowered slab size to allow for batch_size > 1 

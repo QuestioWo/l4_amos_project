@@ -1,6 +1,6 @@
 ## Data
 
-The AMOS2022 data can be accessed by joining the [AMOS2022 Grand Challenge, available here](https://amos22.grand-challenge.org/).
+The AMOS2022 data can be accessed from Zenodo, [available here](https://zenodo.org/record/7155725#.Y9fe8nbP1D9).
 
 <!-- Keep your data (e.g. from evaluations here)
 

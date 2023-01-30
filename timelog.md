@@ -177,3 +177,7 @@
 ### 29th January 2023
 
 * *1 hour* adding logits overlapping to full scan processing
+
+### 30th January 2023
+
+* *4 hours* redownloading miccai dataset and making small adjustments to data loader to work better. expanded model to also take N slices of the logits before, i.e recusive scans 

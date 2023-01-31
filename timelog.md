@@ -180,4 +180,8 @@
 
 ### 30th January 2023
 
-* *4 hours* redownloading miccai dataset and making small adjustments to data loader to work better. expanded model to also take N slices of the logits before, i.e recusive scans 
+* *4 hours* redownloading miccai dataset and making small adjustments to data loader to work better. expanded model to also take N slices of the logits before, i.e recusive scans. uploaded results to miccai, errors occured
+
+### 31st January 2023
+
+* *0.5 hours* experimenting with loss functions and retraining

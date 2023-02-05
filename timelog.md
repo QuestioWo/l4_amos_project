@@ -185,3 +185,11 @@
 ### 31st January 2023
 
 * *0.5 hours* experimenting with loss functions and retraining
+
+### 4th February 2023
+
+* *1 hour* beginning work on building docker image for second stage of AMOS submission
+
+### 5th Febraury 2023
+
+* *2.5 hours* finishing up docker image writing and testing

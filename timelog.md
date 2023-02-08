@@ -193,3 +193,11 @@
 ### 5th Febraury 2023
 
 * *2.5 hours* finishing up docker image writing and testing
+
+### 6th February 2023
+
+* *1 hour* uploading docker image and adjusting model parameters (num_latents 512->1024, slab_depth 11->5, slaboverlap 5->2) for another training run
+
+### 8th February 2023
+
+* *0.25 hour* adjusting parameters for another training run (num_latent_channels 128->512, same changes as before as well)

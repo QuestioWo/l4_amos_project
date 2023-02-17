@@ -201,3 +201,23 @@
 ### 8th February 2023
 
 * *0.25 hour* adjusting parameters for another training run (num_latent_channels 128->512, same changes as before as well)
+
+### 9th February 2023
+
+* *0.5 hours* advisor meeting 
+
+### 13th February 2023
+
+* *1 hour* began training run on full-scan 256x256 data after repreprocessing dataset 
+
+### 15th February 2023
+
+* *1 hour* began training run on less slabs but still 256x256 data as power cut caused other run to crash. emailed Dr. Gooya about what to do about full-sized 256x256 runs taking too long, meaning that  broadcasting/tiling results may not work and 256x256 runs may be infeasible on my home setup due to VRAM requirements
+
+### 16th February 2023
+
+* *4 hours* updating inference script to operate on selected slabs instead of always computing metrics and diffs for full scan. WIP
+
+### 17th February 2023
+
+* *4 hours* finalising slab-based update to inference script, was a silly mistake with how i was masking. preparing for a larger selected-slab training run again due to previously training it on background/all zeroes data

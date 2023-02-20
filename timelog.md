@@ -225,3 +225,7 @@
 ### 19th February 2023
 
 * *7 hours* adding a new script and some adjustments to how parameters and fields are used in the inferences and model to allow for automated network parameter optimisation using a derivative-free optimisation library called nevergrad
+
+### 20th February 2023
+
+* *3 hours* updating limits for automated optimisation to prevent massive errors. Updating data loading to work from shared memory to improve efficiency. changed image precision to 32 bit and network precision to 16 bit, to save host and device memory

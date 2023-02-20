@@ -221,3 +221,7 @@
 ### 17th February 2023
 
 * *4 hours* finalising slab-based update to inference script, was a silly mistake with how i was masking. preparing for a larger selected-slab training run again due to previously training it on background/all zeroes data
+
+### 19th February 2023
+
+* *7 hours* adding a new script and some adjustments to how parameters and fields are used in the inferences and model to allow for automated network parameter optimisation using a derivative-free optimisation library called nevergrad

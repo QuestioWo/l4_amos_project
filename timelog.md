@@ -229,3 +229,15 @@
 ### 20th February 2023
 
 * *3 hours* updating limits for automated optimisation to prevent massive errors. Updating data loading to work from shared memory to improve efficiency. changed image precision to 32 bit and network precision to 16 bit, to save host and device memory
+
+### 22nd February 2023
+
+* *2 hours* further updates to automated optimisation script, starting larger run before weekly meeting
+
+### 23rd February 2023
+
+* *0.5 hours* advisor meeting
+
+### 26th February 2023
+
+* *1 hours* making optimiser pickle itself as PC crashed again, deleting two days of optimisations...

@@ -1,4 +1,4 @@
-# Guidance
+<!-- # Guidance
 This is a suggested template for a project. You can modify it as you please, but
 but remember to keep:
 
@@ -8,14 +8,14 @@ but remember to keep:
 
 Here's an overview of the structure as it stands:
 
-* `timelog.md` The time log for your project.
-* `plan.md` A skeleton week-by-week plan for the project. 
 * `data/` data you acquire during the project
-* `src/` source code for your project
-* `status_report/` the status report submitted in December
-* `meetings/` Records of the meetings you have during the project.
 * `dissertation/` source and for your project dissertation
 * `presentation/` your presentation
+* `src/` source code for your project
+* `status_report/` the status report submitted in December
+* `plan.md` A skeleton week-by-week plan for the project. 
+* `timelog.md` The time log for your project.
+* `meetings/` Records of the meetings you have during the project.
 
 * Make sure you add a `.gitignore` or similar for your VCS for the tools you are using!
 * Add any appropriate continuous integration (e.g. Travis CI) in this directory.
@@ -24,4 +24,7 @@ Here's an overview of the structure as it stands:
 
 ## Important
 * It should be easy to rebuild and run your project and your dissertation
-        * Include clear instructions in the relevant directories to make this possible
+        * Include clear instructions in the relevant directories to make this possible -->
+
+
+## All code relevant to the project can be found in the `perceiver-io/` submodule in `src/`

@@ -241,3 +241,12 @@
 ### 26th February 2023
 
 * *1 hours* making optimiser pickle itself as PC crashed again, deleting two days of optimisations...
+* *3 hours* writing introduction to dissertation
+
+### 27th Febraury 2023
+
+* *2 hours* writing background to dissertation
+
+### 28th Febraury 2023
+
+* *2 hours* writing background to dissertation

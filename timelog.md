@@ -250,3 +250,4 @@
 ### 28th Febraury 2023
 
 * *2 hours* writing background to dissertation
+* *1 hour* writing documentation and preparing full scan training run

@@ -251,3 +251,15 @@
 
 * *2 hours* writing background to dissertation
 * *1 hour* writing documentation and preparing full scan training run
+
+### 1st March 2023
+
+* *4 hours* continuing with writing introduction
+
+### 3rd March 2023
+
+* *4 hours* finishing writing introduction
+
+### 4th March 2023
+
+* *3 hours* beginning and finishing requirements, begining writing design. changing how normalisation works in data loader

@@ -262,4 +262,12 @@
 
 ### 4th March 2023
 
-* *3 hours* beginning and finishing requirements, begining writing design. changing how normalisation works in data loader
+* *3 hours* beginning and finishing requirements, begining writing design. changing how normalisation/standardisation works in data loader
+
+### 5th March 2023
+
+* *1 hour* severe issues present on home system after insatlling new ram. reset windows but issue persists during optimisation job. Have to make a docker container for the compute cluster 
+
+### 6th March 2023
+
+* *4 hours* further attempts to debug system to no avail. creating training image and attempting to run optimisation on IDA compute cluster.

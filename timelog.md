@@ -266,7 +266,11 @@
 
 ### 5th March 2023
 
-* *1 hour* severe issues present on home system after insatlling new ram. reset windows but issue persists during optimisation job. Have to make a docker container for the compute cluster 
+* *1 hour* severe issues present on home system after insatlling new ram. reset windows but issue persists during optimisation job. Have to make a docker container for the compute cluster
+
+### 6th March 2023
+
+* *2 hours* getting compute cluster working. made new docker image and sorted out data volumes
 
 ### 6th March 2023
 

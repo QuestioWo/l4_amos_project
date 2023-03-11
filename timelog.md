@@ -272,6 +272,18 @@
 
 * *2 hours* getting compute cluster working. made new docker image and sorted out data volumes
 
-### 6th March 2023
+### 7th March 2023
 
 * *4 hours* further attempts to debug system to no avail. creating training image and attempting to run optimisation on IDA compute cluster.
+
+### 8th March 2023
+
+* *4 hours* finished design section of report. further updates to docker images and ida compute cluster yaml configs to get them working. should be fully funcitonal now - bug was due to gpu memory not clearing which i cant guarantee sadly
+
+### 10th March 2023
+
+* *4 hours* wrting implementation section of report. more issues with compute cluster, have fixed to allow dp strategy for training the optimisation job
+
+### 11th March 2023
+
+* *2 hours* compute cluster volume has ran out of disk space. very very bad. no more network information can be stored, rending it unusable until storage increased. This is along with the finding that all the pods are running on the same machien, so i cannot realistically run all of the trainings at the same time. emails sent to gooya, dual boot installed on home system to try and get **somethign** trained for submission. will email about possible extension as i cannot control this

@@ -287,3 +287,7 @@
 ### 11th March 2023
 
 * *2 hours* compute cluster volume has ran out of disk space. very very bad. no more network information can be stored, rending it unusable until storage increased. This is along with the finding that all the pods are running on the same machien, so i cannot realistically run all of the trainings at the same time. emails sent to gooya, dual boot installed on home system to try and get **somethign** trained for submission. will email about possible extension as i cannot control this
+
+### 12th March 2023
+
+* *2 hours* ran memtest86 on home system, uncovering numerous errors with new ram. removed said ram and attempting to train recursive on home system again. Restarted optimisation job to be better with the 32Gb of disk available on the volume. decreased scan size to give it a chance of finishing with enough time to train a full model

@@ -88,3 +88,11 @@ docker pull ghcr.io/questiowo/miccai-perceiver-io
 This may require logging in, [information on how to do so can be found in GitHub documentation](https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-container-registry#authenticating-with-a-personal-access-token-classic)
 
 Information on how to correctly run the docker image using GPU acceleration can be found in [the AMOS22 docker submission guidelines here](https://github.com/JiYuanFeng/AMOS/tree/docker#step-4-run-a-container-from-a-created-docker-image)
+
+### Using OpenShift Compute Cluster
+
+The OpenShift compute cluster GPUs can be used to train on by using the associated `Dockerfile.XXX` docker image. These are currently uploaded, ready for use on [hub.docker.com](https://hub.docker.com/search?q=perceiver-io).
+
+The configuration yaml files are included in the project as `job-perceiver-io-*.yaml`. The jobs expect the `amos22` dataset to be uploaded to an associated NFS store, which can be attached at `/volume/`. This is configured in the yaml-file and can be adjusted to new users easily.
+
+The docker commands are written into each Dockerfile and are not observant to different numbers of GPGPUs. This means that if a cluster with (not 2) GPUs is available, the docker image has to be rebuilt, repushed, and the job restarted with the correct batch size and devices. Alternatively, the yaml configuration files can be extended to instead have the training job script inside the configuration file instead of the Dockerfile, however, an example is not included of that.

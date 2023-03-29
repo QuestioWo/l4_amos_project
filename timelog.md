@@ -291,3 +291,47 @@
 ### 12th March 2023
 
 * *2 hours* ran memtest86 on home system, uncovering numerous errors with new ram. removed said ram and attempting to train recursive on home system again. Restarted optimisation job to be better with the 32Gb of disk available on the volume. decreased scan size to give it a chance of finishing with enough time to train a full model
+
+### 14th March 2023
+
+* *2 hours* optimistaion job finished, optimised parameter full scan training started on cluster. several issues with getting it working so well see tomorrow. implementation section also finsihed. beginning future work section
+
+### 15th March 2023
+
+* *1 hours* full-scan inferencing failed. also starting up recursive and overlapping ablation tests with optimised parameters. should be easier to train. writing future work section as well
+
+### 17th March 2023
+
+* *3 hours* full-scan inferencing is hanging and randomly crashing. also seems that ablation studies are crashing likely due to some GPUs always having memory usage. closing a job also failed so having to wait to use the TITAN cards again. ablation only for now and have started a backup training on home system with reduced parameter sets. finished future work section, starting evaluation section and hoping that the results line up with what i think theyll be
+
+### 18th March 2023
+
+* *1 hours* looks like i dont register as a user on the compute cluster so it may be double allocating to other users while i try and use it, hopefully can work around by using a subset of the gpus and checking up on it. looks like full-scan training can be done on 3090s instead of titan cards so using them instead. Also more of them so maybe faster?
+
+### 19th March 2023
+
+* *2 hours* giving up on ablations on compute cluster, only home system with reduced parameters as nearly done. continuing with evaluation section and restarting jobs. stopped full-scan segmentation as not enough time to train it and a multi-modality one, so only training a partial optimised and partial multi-modality and full-scan multi-modality i reckon
+
+### 20th March 2023
+
+* *3 hours* partial optimised parameters job failed. ablation jobs are finsihed on home system so will just run multi-modality stuff on home system with reduced parameters instead of compute cluster cause its so flaky. will train to train a single optimised parameter full-scan multi-modality model on compute cluster since cant do optimised params on local. continuing with evaluation section and getting tables in to fill later. begun training partial multi-modality with reduced parameters on home system as backup
+
+### 21st March 2023
+
+* *3 hours* multi-modality on home system is thriving, compute cluster is dying. multi-modality on home system is done. running evaluations on all previous models before starting a backup run of the full-scan multi-modality baseline parameters on the home system.
+
+### 23rd March 2023
+
+* *.5 hours* supervisor meeting, sending current draft to hopefully get some feedback
+
+### 25th March 2023
+
+* *2 hours* writing evaluation section and including results. no longer checking compute cluster as home full-scan looks to be doing well and other results shiuld be enough
+
+### 27th March 2023
+
+* *.5 hours* stopping full-scan model trainign cause looks as though its converged. running more evaluations for evaluation section. evaluation section, bar a couple of results is done
+
+### 28th March 2023
+
+* *5 hours* running more evaluations. finsihed evaluation section except amos results submission. wrote conclusion. reworked future work chapter into a conclusion section instead. generated some images of segmentations for ghost classifications and examples. only got abstract, redraft, and presentation to do tomorrow and the day after then done a day early hopefully

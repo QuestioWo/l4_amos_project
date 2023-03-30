@@ -335,3 +335,7 @@
 ### 28th March 2023
 
 * *5 hours* running more evaluations. finsihed evaluation section except amos results submission. wrote conclusion. reworked future work chapter into a conclusion section instead. generated some images of segmentations for ghost classifications and examples. only got abstract, redraft, and presentation to do tomorrow and the day after then done a day early hopefully
+
+### 29th March 2023
+
+* *7 hours* trying to upload amos results, lots of errors. redrafted and looked over dissertation, added appendix with user manual, and written abstract

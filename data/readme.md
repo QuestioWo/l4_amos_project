@@ -2,6 +2,10 @@
 
 The AMOS2022 data can be accessed from Zenodo, [available here](https://zenodo.org/record/7155725#.Y9fe8nbP1D9).
 
+Model checkpoints/weights, and logs can be found [here](https://drive.google.com/drive/folders/1z9-O407Tj2cpdUiDNOEjqhbZtGNUMItI?usp=sharing).
+
+Results uploaded to AMOS can be found in the `results/` folder.
+
 <!-- Keep your data (e.g. from evaluations here)
 
 * If you involved human subjects in any form, you will require ethical permission.

@@ -2,4 +2,4 @@
 
 LaTeX Overleaf project for the accompanying dissertation can be [accessed here](https://www.overleaf.com/read/vwwjqnvhbyvn).
 
-PDF version to be added to repository when completed.
+PDF and latex code are included in this directory

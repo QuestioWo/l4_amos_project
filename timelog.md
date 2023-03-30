@@ -339,3 +339,7 @@
 ### 29th March 2023
 
 * *7 hours* trying to upload amos results, lots of errors. redrafted and looked over dissertation, added appendix with user manual, and written abstract
+
+### 30th March 2023
+
+* *6 hours* uploaded amos results finally and dsc score retrieved and included as final peice to dissertation. fully wrote presentation and script and saved to video, slightly speeding up to fit within 12 mins since at 14.5 atm. will upload when finished. finalising repository, adding dissertation and powerpoint.
